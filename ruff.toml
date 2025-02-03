@@ -1,0 +1,5 @@
+[lint]
+extend-select = ["I"]  # Enables import sorting
+
+[lint.isort]
+force-single-line = true  # Ensures one import per line
